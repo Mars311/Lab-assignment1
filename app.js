@@ -1,0 +1,18 @@
+var a = prompt ("Enter your Name");
+var b = prompt ("Enter your Email ID");
+var num = +prompt ("Enter number to generate the table");
+document.write ("Name:"+a);
+document.write("<br>");
+document.write ("Email:"+b);
+document.write("<br>");
+document.write("<br>");
+document.write (num+"x"+"1"+"="+num*1 +"<br>");
+document.write (num+"x"+"2"+"="+num*2 +"<br>");
+document.write (num+"x"+"3"+"="+num*3 +"<br>");
+document.write (num+"x"+"4"+"="+num*4 +"<br>");
+document.write (num+"x"+"5"+"="+num*5 +"<br>");
+document.write (num+"x"+"6"+"="+num*6 +"<br>");
+document.write (num+"x"+"7"+"="+num*7 +"<br>");
+document.write (num+"x"+"8"+"="+num*8 +"<br>");
+document.write (num+"x"+"9"+"="+num*9 +"<br>");
+document.write (num+"x"+"10"+"="+num*10 +"<br>");
